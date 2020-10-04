@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/DOF"/>
+    <qresource prefix="/File">
+        <file>Resources/bangzhu.png</file>
+    </qresource>
+</RCC>
