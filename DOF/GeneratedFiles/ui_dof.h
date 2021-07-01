@@ -71,7 +71,7 @@ public:
         centralWidget->setObjectName(QStringLiteral("centralWidget"));
         label_5 = new QLabel(centralWidget);
         label_5->setObjectName(QStringLiteral("label_5"));
-        label_5->setGeometry(QRect(270, 10, 231, 41));
+        label_5->setGeometry(QRect(240, 10, 264, 50));
         QSizePolicy sizePolicy1(QSizePolicy::Preferred, QSizePolicy::Expanding);
         sizePolicy1.setHorizontalStretch(0);
         sizePolicy1.setVerticalStretch(0);
